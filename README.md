@@ -6,6 +6,9 @@ A simple web-based dice game built using HTML, CSS, and JavaScript. The applicat
 
 ## 📸 Preview
 
+![Dice Game](Screenshot1.png)
+![Dice Game](Screenshot2.png)
+![Dice Game](Screenshot3.png)
 
 
 ---
