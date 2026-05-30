@@ -1,35 +1,40 @@
-
 # 🎲 Dice Game
 
-A simple Dice Game built using HTML, CSS, and JavaScript.
+A simple web-based dice game built using HTML, CSS, and JavaScript. The application generates random dice rolls for two players and automatically determines the winner based on the generated values.
 
-## 🚀 Live Demo
+---
 
-(Add GitHub Pages link here later)
+## 📸 Preview
 
-## 📌 Features
 
-- Generates random dice rolls for two players
-- Displays the corresponding dice images dynamically
-- Announces the winner automatically
-- Shows draw result when both dice are equal
-- Refresh the page to play again
+
+---
+
+## 🚀 Features
+
+- Random dice generation for both players
+- Dynamic dice image rendering
+- Automatic winner determination
+- Draw detection
+- Clean and responsive interface
+
+---
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (DOM Manipulation)
+- JavaScript
+
+---
 
 ## 📂 Project Structure
 
-```
+```text
 Dice-Game-js/
-│
 ├── dice.html
 ├── styles.css
 ├── index.js
-│
 └── images/
     ├── dice1.png
     ├── dice2.png
@@ -39,21 +44,20 @@ Dice-Game-js/
     └── dice6.png
 ```
 
-## 🎯 What I Learned
+---
 
-- DOM Manipulation
-- Query Selectors
-- setAttribute()
-- Math.random()
-- Conditional Logic
-- Dynamic Image Rendering
+## ⚙️ How to Run
 
-## 📸 Preview
+1. Clone the repository
 
-(Add screenshot here later)
+```bash
+git clone https://github.com/Samriddho24/Dice-Game-js.git
+```
 
-## 👨‍💻 Author
+2. Open the project folder
 
-**Samriddho Kar**
+3. Run `dice.html` in your browser
 
-GitHub: https://github.com/Samriddho24
+4. Refresh the page to generate new dice rolls
+
+---
